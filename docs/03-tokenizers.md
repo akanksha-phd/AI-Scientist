@@ -71,3 +71,15 @@ Main subword algorithms:
 - BPE
 - WordPiece
 - Unigram
+
+
+- BPE → merge frequent token pairs
+- WordPiece → longest-match subwords; ## marks continuation
+- Unigram → start with large vocabulary, remove least useful tokens
+- SentencePiece → uses ▁ to represent spaces
+- Building a tokenizer:
+  Normalization
+  → Pre-tokenization
+  → Model
+  → Post-processing
+  → Decoder
