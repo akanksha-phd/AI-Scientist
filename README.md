@@ -39,7 +39,7 @@ Create an AI assistant capable of helping researchers:
 
 ## Current Status
 
-🚧 Early development (Day 1)
+ Early development (Day 1)
 
 The current focus is on designing the overall architecture, defining project goals, and building a strong technical foundation before implementation begins.
 
@@ -111,6 +111,8 @@ This repository is being built in public as part of my journey toward developing
 Updates will be added regularly as new capabilities are implemented.
 
 ---
+
+- Hugging Face LLM Course: completed tokenizer algorithms and core NLP tasks including NER, masked language modeling, translation, summarization, and causal language modeling.
 
 ## Author
 
